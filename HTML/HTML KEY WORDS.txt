@@ -1,0 +1,26 @@
+h  - heading
+p - para
+b - bold
+i - italic
+u - underline
+del - strick of the text
+cite - wont break the line
+address - break the line
+table -> <tr> - for table
+big - font big
+small - font small
+sup - power
+sub - below the text
+hr - line
+br - line breaker
+ol - orderd list
+ul - unorderd list
+li - list
+em - words cross
+strong - bold
+&nbsp; - white space 
+&lt - <
+&gt - > 
+&copy - copyright symbool
+a href ="" - anchor tag ->link
+
